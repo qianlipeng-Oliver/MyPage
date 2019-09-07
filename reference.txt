@@ -7,5 +7,5 @@ https://www.youtube.com/watch?v=SWYqp7iY_Tc
 nodejs:
 
 
-hexo ��վ�
+hexo 博客指南
 https://www.simon96.online/
