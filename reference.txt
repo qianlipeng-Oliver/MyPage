@@ -1,4 +1,4 @@
-Github:
+﻿Github:
 https://www.cnblogs.com/ttjsndx/p/7943444.html
 https://www.cnblogs.com/blogzhangwei/p/5944975.html
 https://www.youtube.com/watch?v=0fKg7e37bQE&t=300s
@@ -9,3 +9,5 @@ nodejs:
 
 hexo 博客指南
 https://www.simon96.online/
+https://blog.csdn.net/wistbean/article/details/82291124             next
+https://faceghost.com/article/535881                                next.Pisces
