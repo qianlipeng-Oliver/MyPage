@@ -9,6 +9,9 @@ nodejs:
 
 hexo 博客指南
 https://www.simon96.online/
+(domain)
+https://alexzl5.github.io/use-custom-domain-with-hexo/ 
+
 https://blog.csdn.net/wistbean/article/details/82291124             next
 https://faceghost.com/article/535881
 http://www.jlancer.info/2018/07/17/Hexo%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8Git%E9%83%A8%E7%BD%B2VPS/
